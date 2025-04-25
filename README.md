@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nushratjahan28" alt="nushratjahan28" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nusratjahan28" alt="nusratjahan28" />
   </a>
 </p>
 
@@ -42,5 +42,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurin-abdullah&show_icons=true&locale=en&layout=compact" alt="aurin-abdullah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratjahan28&show_icons=true&locale=en&layout=compact" alt="nusratjahan28" />
 </p>
